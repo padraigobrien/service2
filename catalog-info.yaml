@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: service2
+  annotations:
+    github.com/project-slug: padraigobrien/service2
+spec:
+  type: other
+  lifecycle: unknown
+  owner: acme-corp
